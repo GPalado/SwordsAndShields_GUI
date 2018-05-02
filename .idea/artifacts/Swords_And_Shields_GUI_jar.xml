@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Swords_And_Shields_GUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Swords_And_Shields_GUI_jar</output-path>
+    <root id="archive" name="Swords_And_Shields_GUI.jar">
+      <element id="module-output" name="Swords_And_Shields_GUI" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
